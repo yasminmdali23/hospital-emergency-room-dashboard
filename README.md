@@ -14,6 +14,14 @@ An operational healthcare analytics dashboard built in Excel to monitor and eval
 * **Clinical Department Referrals:** Horizontal ranking chart showing where ER patients are directed, with General Practice (103) and Orthopedics (65) taking the highest volume outside of unassigned cases.
 * **Temporal Filters:** Interactive timelines allowing cross-filtering by Year (2023, 2024) and individual calendar Months.
 
+![Amazon Dashboard Page 1](InShot_20260603_074107710.jpg)
+
+![Amazon Dashboard Page 2](your_second_image_name.jpg)
+
+![Amazon Dashboard Page 3](your_third_image_name.jpg)
+
+![Amazon Dashboard Page 4](your_fourth_image_name.jpg)
+
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Advanced Data Modeling, Pivot Tables, Conditional Formatting, Interactive Slicers, and Healthcare KPI Dashboard Design.
 
